@@ -1,3 +1,7 @@
+## 🌎 Live Deployment
+🔗 **[View the app on Streamlit Cloud](https://heart-disease-prediction-hygonykwg8hwedeslvsdtg.streamlit.app/)**
+
+
  UW PICO 5.09                        File: README.md                           
 
 # Heart Disease Prediction App 🚀
